@@ -47,6 +47,15 @@ A aplicação **Jogo da Memória** inclui:
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Jogo da Memória 🧠](https://erikcesartavares.github.io/jogo-da-memoria/)
+
+
+---
+
 ## 🧠 Como Usar
 
 ### Passo 1: Clone o repositório

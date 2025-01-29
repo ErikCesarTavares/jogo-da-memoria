@@ -41,7 +41,7 @@ A aplicação **Jogo da Memória** inclui:
    - Feedback visual para pares encontrados.
    - Alerta de vitória ao completar o jogo.
 4. **Estilização Responsiva**:
-   - Design colorido e vibrante, ajustável para diversos tamanhos de tela.
+   - Design colorido e vibrante, design otimizado para desktop.
 5. **Botão Reset**:
    - Reinicie o jogo com facilidade para começar novamente.
 
